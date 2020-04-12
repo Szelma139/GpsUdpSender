@@ -1,4 +1,4 @@
-# Simple project computing 3 coordinates.
+# Simple project computing GPS coordinates.
 
 ## Getting Started
 ```
